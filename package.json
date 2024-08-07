@@ -4,7 +4,8 @@
   "description": "Api teste aula do nivas",
   "main": "app/server/server.js",
   "scripts": {
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "test": "jest"
   },
   "author": "Lucas Pizol",
   "license": "ISC",
@@ -12,6 +13,7 @@
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "express": "^4.19.2",
+    "jest": "^29.7.0",
     "jsonwebtoken": "^9.0.2",
     "knex": "^3.1.0",
     "mysql2": "^3.11.0"
