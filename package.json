@@ -2,7 +2,7 @@
   "name": "api0708",
   "version": "1.0.0",
   "description": "Api teste aula do nivas",
-  "main": "app/server/index.js",
+  "main": "app/server/server.js",
   "scripts": {
     "dev": "nodemon"
   },
